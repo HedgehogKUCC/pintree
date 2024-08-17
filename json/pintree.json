@@ -1,20 +1,146 @@
 [
   {
     "type": "folder",
-    "addDate": 1609311544167,
-    "title": "其他書籤",
+    "addDate": 1717922633630,
+    "title": "書籤列",
     "children": [
       {
         "type": "folder",
-        "addDate": 1723796629564,
+        "addDate": 1717924188009,
         "title": "RO",
         "children": [
           {
             "type": "link",
-            "addDate": 1723796656204,
-            "title": "首頁 - RO仙境傳說Online",
+            "addDate": 1717988354601,
+            "title": "RO仙境傳說Online",
             "icon": "https://logo.clearbit.com/ro.gnjoy.com.tw",
             "url": "https://ro.gnjoy.com.tw/"
+          },
+          {
+            "type": "link",
+            "addDate": 1717941900681,
+            "title": "露天商店查詢平台",
+            "icon": "https://logo.clearbit.com/event.gnjoy.com.tw",
+            "url": "https://event.gnjoy.com.tw/Ro/RoShopSearch"
+          },
+          {
+            "type": "link",
+            "addDate": 1717941903529,
+            "title": "裝備道具查詢平台",
+            "icon": "https://logo.clearbit.com/event.gnjoy.com.tw",
+            "url": "https://event.gnjoy.com.tw/Ro/RoItemSearch"
+          },
+          {
+            "type": "folder",
+            "addDate": 1723872115397,
+            "title": "主線任務",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1717924299624,
+                "title": "EP19 雪花之地 伊斯加爾特",
+                "icon": "https://logo.clearbit.com/event.gnjoy.com.tw",
+                "url": "https://event.gnjoy.com.tw/Ro/ACT_20240508_ep19/ep19_UpdateInformation"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1723872202814,
+            "title": "更新",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1719931786160,
+                "title": "吉芬夜間鬥技場",
+                "icon": "https://logo.clearbit.com/ro.gnjoy.com.tw",
+                "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=145325"
+              },
+              {
+                "type": "link",
+                "addDate": 1720235011024,
+                "title": "地圖、副本掉落優化",
+                "icon": "https://logo.clearbit.com/ro.gnjoy.com.tw",
+                "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=216719"
+              },
+              {
+                "type": "link",
+                "addDate": 1720926686322,
+                "title": "寵物進化系統",
+                "icon": "https://logo.clearbit.com/ro.gnjoy.com.tw",
+                "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=4707"
+              },
+              {
+                "type": "link",
+                "addDate": 1721734262408,
+                "title": "Lv260",
+                "icon": "https://logo.clearbit.com/ro.gnjoy.com.tw",
+                "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=216943#target"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1723872310302,
+            "title": "YT、巴哈",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1720926660307,
+                "title": "(1) 【情報】達納托斯塔 ●▅▇█▇▆▆▅▄▇ ヽ(・×・´)ゞ @RO 仙境傳說 Online 哈啦板 - 巴哈姆特",
+                "icon": "https://logo.clearbit.com/forum.gamer.com.tw",
+                "url": "https://forum.gamer.com.tw/C.php?bsn=4212&snA=429917"
+              },
+              {
+                "type": "link",
+                "addDate": 1723636347597,
+                "title": "TWRO仙境傳說【艾音貝赫 礦山洞穴3F】練功、挖礦、兌換新裝備，地圖攻略介紹。 - YouTube",
+                "icon": "https://logo.clearbit.com/www.youtube.com",
+                "url": "https://www.youtube.com/watch?v=2O5UXsUuack"
+              },
+              {
+                "type": "link",
+                "addDate": 1722705873464,
+                "title": "(1) 【心得】為拳頭注入元素之力的魔法戰士 | 魔力拳自詠流妖術(最終優化圓夢挑戰古城單打通關!) @RO 仙境傳說 Online 哈啦板 - 巴哈姆特",
+                "icon": "https://logo.clearbit.com/forum.gamer.com.tw",
+                "url": "https://forum.gamer.com.tw/C.php?bsn=4212&snA=427667"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1723872425189,
+            "title": "各職業玩法",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1722152268348,
+                "title": "RO各職業屬性、技能 - 點法整理 - 2024(技能更動第三版) - Google 文件",
+                "icon": "https://logo.clearbit.com/docs.google.com",
+                "url": "https://docs.google.com/document/d/1DvxHh05M7zIFYlJ_xQiEBgzFDeofD4WQw1CdZ3-I9fI/edit"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1721956595823,
+            "title": "等級上限解放-系列活動",
+            "icon": "https://logo.clearbit.com/ro.gnjoy.com.tw",
+            "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=216941"
+          },
+          {
+            "type": "link",
+            "addDate": 1722942719257,
+            "title": "2024ROS限定活動-戰火燎原",
+            "icon": "https://logo.clearbit.com/ro.gnjoy.com.tw",
+            "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=216962"
+          },
+          {
+            "type": "link",
+            "addDate": 1723629916092,
+            "title": "材料 - 奧林帕斯之翼-LT",
+            "icon": "https://logo.clearbit.com/ro.gnjoy.com.tw",
+            "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=216107"
           }
         ]
       }
